@@ -1,5 +1,5 @@
 import { Box, Paper, Stack, Typography, useTheme } from "@mui/material";
-import Pie from "../../page/pieChart/pie";
+import Pie from "../../page/pieChart/Pie";
 import React from "react";
 import Bar from "../../page/barChart/bar";
 import Geo from "../../page/geography/geo";
